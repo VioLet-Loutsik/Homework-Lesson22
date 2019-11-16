@@ -1,0 +1,23 @@
+.container {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+    width: 400px;
+    height: 200px;
+    border: 2px solid black;
+}
+.wrapper {
+    display: flex;
+    justify-content: center;
+}
+.text {
+    display: flex;
+    justify-content: center;
+}
+.button {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    width: 30px;
+    height: 20px;
+}
