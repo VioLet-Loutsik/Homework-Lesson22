@@ -15,7 +15,7 @@ let key = name;
 var str1_ ="Hello  "+ key,
       changeText = function()  {
           if (localStorage == key);
-          else ("Hello quest");
+          else ("Hello guest");
           document.querySelector('h5').textContent = str1_ || else_;
           }
   document.getElementById('but1').addEventListener('click', changeText, false);
